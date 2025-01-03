@@ -21,15 +21,15 @@ Asmr TodoList is a task manager application build with kotlin and Jetpack compos
 
 Add todo using floating + icon
   
-[![Screenshot-2025-01-03-22-23-14-92-10a541ac0f1fad3879ceec9365ef6394.jpg](https://i.postimg.cc/FzB5bky3/Screenshot-2025-01-03-22-23-14-92-10a541ac0f1fad3879ceec9365ef6394.jpg)](https://postimg.cc/RJKD4FbZ)
+[![Screenshot-2025-01-03-23-30-24-61-10a541ac0f1fad3879ceec9365ef6394.jpg](https://i.postimg.cc/YSKn4DH1/Screenshot-2025-01-03-23-30-24-61-10a541ac0f1fad3879ceec9365ef6394.jpg)](https://postimg.cc/RWdQyRqF)
 
 Added todo title and description
 
-[![Screenshot-2025-01-03-22-23-38-76-10a541ac0f1fad3879ceec9365ef6394.jpg](https://i.postimg.cc/W1nRSyws/Screenshot-2025-01-03-22-23-38-76-10a541ac0f1fad3879ceec9365ef6394.jpg)](https://postimg.cc/LJn08NWW)
+[![Screenshot-2025-01-03-23-30-28-11-10a541ac0f1fad3879ceec9365ef6394.jpg](https://i.postimg.cc/26T2KzBw/Screenshot-2025-01-03-23-30-28-11-10a541ac0f1fad3879ceec9365ef6394.jpg)](https://postimg.cc/344XyQ14)
 
 Added and completed todo task
 
-[![Screenshot-2025-01-03-22-26-21-19-10a541ac0f1fad3879ceec9365ef6394.jpg](https://i.postimg.cc/MHRNB3G2/Screenshot-2025-01-03-22-26-21-19-10a541ac0f1fad3879ceec9365ef6394.jpg)](https://postimg.cc/0KkVRfmc)
+[![Screenshot-2025-01-03-23-30-07-74-10a541ac0f1fad3879ceec9365ef6394.jpg](https://i.postimg.cc/d314Mz2K/Screenshot-2025-01-03-23-30-07-74-10a541ac0f1fad3879ceec9365ef6394.jpg)](https://postimg.cc/FdMj3CCP)
 
 ## Run locally
 ```javascript
